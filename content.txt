@@ -1,0 +1,9 @@
+Hire us: 
+event name
+venue
+event description
+from date
+to date
+club/organization name
+submit
+

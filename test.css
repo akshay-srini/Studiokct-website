@@ -1,0 +1,18 @@
+html, body {
+    height: 100%; 
+    width: 100%; 
+    margin: 0; 
+}
+
+.parent{
+    width: 100%;
+    background-color: burlywood;
+    height: 100%;
+}
+
+.child{
+    background-color: pink;
+    margin: 0 auto; 
+    width: 20%;
+     text-align: center;
+}
